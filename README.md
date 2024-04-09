@@ -1,4 +1,4 @@
-# A simple Data Pipeline with NYC Yellow Taxi Trip Data
+# A Simple Data Pipeline with NYC Yellow Taxi Trip Data
 
 ## Purpose
 
